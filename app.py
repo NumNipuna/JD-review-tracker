@@ -91,7 +91,7 @@ def load_data(file_path):
     return df
 
 # Your actual absolute path to the data
-excel_file_path = "C:/Users/Asus/Desktop/Python/JD/Master JD.xlsx"
+excel_file_path = "Master JD.xlsx"
 
 try:
     # We pass the modified time into the loader. 
@@ -109,7 +109,7 @@ def get_base64_image(image_path):
         return base64.b64encode(img_file.read()).decode()
 # --- SIDEBAR & LOGO ---
 
-logo_path = r"C:\Users\Asus\Desktop\Python\JD\logo.png"
+logo_path = "logo.png"
 
 
 if os.path.exists(logo_path):
