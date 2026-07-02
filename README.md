@@ -5,7 +5,7 @@ An interactive, corporate-themed data science dashboard built with **Streamlit**
 ---
 
 ## 🚀 Live Demo
-👉 [View the Live Dashboard]([https://share.streamlit.io/](https://jd-review-tracker-nkckrrzyngr5sayjjts3p2.streamlit.app))
+👉 [View the Live Dashboard](https://jd-review-tracker-nkckrrzyngr5sayjjts3p2.streamlit.app)
 
 ---
 
